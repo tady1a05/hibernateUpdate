@@ -1,4 +1,4 @@
-# hibernateOneToOne
+# hibernateUpdate
 
 Query
 ======================
